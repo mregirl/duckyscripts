@@ -1,0 +1,5 @@
+GUI r
+DELAY 200
+STRING powershell Set-WinUserLanguageList -LanguageList  ar-eg -force
+ENTER
+REM script for english: powershell Set-WinUserLanguageList -LanguageList  en-US -force
